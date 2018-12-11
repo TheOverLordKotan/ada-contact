@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ADACORE</string>
+
+    <string name="navigation_drawer_open">Abrir navegacion</string>
+    <string name="navigation_drawer_close">Cerrar navegacion</string>
+
+    <string name="action_settings">Opciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragmento Vacio</string>
+</resources>
